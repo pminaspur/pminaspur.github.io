@@ -17,6 +17,8 @@ My ePortfolio showcases a comprehensive understanding of essential elements of c
 
 ### _Professional Self-Assessment_
 
+<div id="self-assessment">
+
 I am pleased to introduce you to my CS499 Capstone ePortfolio. This page presents my work as a student at Southern New Hampshire University. 
 
 It has been three years since August 2022, when I began studying Computer Science. Throughout the program, I consistently looked forward to acquiring new skills, ranging from computer systems and programming to developing cutting-edge technology. It was my passion for working with computers and technology that attracted me to this program, as well as enhanced my ability to solve complex problems, think critically, and contribute to the advancement of many fields. My experience in the Computer Science Program has helped me learn and improve my skills, Emphasizing my motivation, problem-solving skills, and solid grasp of the various components and tools essential for planning and programming.
@@ -46,8 +48,11 @@ Throughout my course, I focus on developing a strong combination of technical a
     </a>
 </div>
 
+</div>
 
 ### _Refinement Plan and Code Review_
+
+<div id="codereview">
 
 Code review is often referred to as a peer assessment of code, which helps developers ensure or improve code quality and identify and rectify errors that may have been missed during the initial development stage before integration and deployment. In other words, code reviews are a practice focused on maintaining software quality, wherein one or more individuals or tools methodically inspect and evaluate the program's source code. After a software developer completes coding, they can easily make mistakes. With this in mind, code reviews provide an excellent opportunity to gain a different perspective on the solutions and implementations, helping to identify bugs, logical errors, overlooked edge cases, or other concerns so we can collaboratively resolve them and prevent mistakes.
 
@@ -65,7 +70,11 @@ Planned Improvements: This portion outlines intended enhancements that respond t
     </a>
 </div>
 
+</div>
+
 ### _Software Design and Engineering_
+
+<div id="softwaredesign">
 
 The chosen artifact for the code review of software design and engineering is the Weight Tracking Mobile App. This application was created as part of the computer science course CS360 Mobile Architecture and Programming. Its primary objective is to allow users to monitor their weight through an Android device. The mobile app was developed in JAVA and incorporates an SQLite database. Planned upgrades include implementing input validation for usernames and passwords, improving error handling, creating a new account page for new users, and adding graphs or charts to assist users in tracking their weight progress or changes. With these enhancements, I aim to improve data security, enhance account management and login functionalities, safeguard account information, ensure accessibility, and make the interface more user-friendly while also addressing exception handling.
 ADD LINK TO YOU TUBE OF POSTED VIDEO
@@ -76,7 +85,11 @@ ADD LINK TO YOU TUBE OF POSTED VIDEO
     </a>
 </div>
 
+</div>
+
 ### _Algorithms and Data Structure_
+
+<div id="algorithms">
 
 The code review for algorithms and data structures pertains to the Animal Shelter class. This program was planned, designed, and developed as part of the computer science curriculum, CS 340 Client-Server Development course. It aims to create a fully functional interactive web-based dashboard for the Grazioso animals training company, which specializes in identifying suitable dogs for their search and rescue training programs. The application is built using Python and the Dash framework, with MongoDB acting as its database. The connection between Python and MongoDB is established using the PyMongo driver, while Jupyter Notebook functions as a testing environment for the web application. The application is structured as a monolithic architecture, which limits its flexibility and scalability due to a tightly coupled codebase. I intend to decompose the code into smaller, individual services, ensuring that each service can be independently built, developed, and tested.
 Additionally, I plan to utilize advanced operations, as the list will facilitate sorting algorithms like quicksort and binary search, which are beneficial for dynamic data in this complex application. With these enhancements, I aim to improve the data structures and algorithms of the Animal Shelter class, thereby boosting the overall performance and value of the system.
@@ -88,7 +101,11 @@ ADD LINK TO YOU TUBE OF POSTED VIDEO
     </a>
 </div>
 
+</div>
+
 ### _Databases_
+
+<div id="databases">
 
 Code reviews in databases are an artifact of the Grazioso Salvare Search for Rescue Web Application. This web application was developed as part of the CS340 Client-Server Development course. Leveraging a pre-existing database from animal shelters, the application identifies and classifies available dogs for training in various rescue programs by developing a web interface. The project utilizes MongoDB alongside the Dash framework within the Python application. Integration between MongoDB and Python is achieved through the PyMongo library. Assessments of the web application are performed using Jupyter Notebook. The planned enhancement is to utilize advanced features of MongoDB by setting up indexes on commonly queried attributes such as age, animal ID, type, and color. This will allow the database to efficiently find data quickly instead of scanning the whole table, facilitating considerable horizontal scalability without necessitating changes to the application logic. The data entered the database is not validated, making it vulnerable to security risks, so I plan to implement strict input validation as my second enhancement to the project. In addition, I intend to execute the operations entirely within the database using Aggregation pipelines, eliminating the need for extensive result sets to be transferred over the network. The third improvement I have made to the project is this one.
 ADD LINK TO YOU TUBE OF POSTED VIDEO
@@ -97,4 +114,5 @@ ADD LINK TO YOU TUBE OF POSTED VIDEO
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
+</div>
 </div>
